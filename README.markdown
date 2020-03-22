@@ -24,6 +24,7 @@ src="http://stkim1.github.com/MTImageMapView/images/debug.jpeg" alt="Debug scree
 - Single public class and protocol to implement
 - Debug mode to superimpose maps on an image
 
+
 <ol>
 	<li>There is no limit but you need to be reasonable. In this example, I put around 50.</li>
 	<li>Mapping takes place in background and prevents UI animation from stuttering.</li>
